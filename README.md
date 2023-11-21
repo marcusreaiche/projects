@@ -43,7 +43,7 @@ More details, including the project's source code, can be found [here](https://g
 
 # Machine Learning DevOps
 
-## Building a Reproducible Model Workflow
+## [Building a Reproducible Model Workflow](https://github.com/marcusreaiche/build-ml-pipeline-for-short-term-rental-prices)
 
 #### Skills and Technologies
 > Machine learning configuration management • Exploratory data analysis • Weights & biases • Data cleaning • Model deployment • Hydra • Data versioning • Non-deterministic data testing • Machine learning pipeline creation • Deterministic data testing • Pytest • MLflow • Data validation • Model testing • Machine learning experiment tracking • Data pre-processing for ML • Model evaluation • Inference pipelines • Data splitting • Model performance metrics
