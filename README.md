@@ -18,7 +18,7 @@ More details, including the project's source code, can be found [here](https://g
 #### Skills and technologies
 > Apache Airflow • Data pipeline dags • Data pipeline partitioning • Amazon S3 • Data pipeline maintenance • Redshift • Data pipeline creation • Data lineage
 
-In this project, I built an Airflow ETL dag that populates the Redshift data warehouse using log files stored in Amazon S3. This project is a natural extension of the [data warehouse](#data-warehouse) project enabling the schedule the ETL pipeline
+In this project, I built an Airflow ETL dag that populates the Redshift data warehouse using log files stored in Amazon S3. This project is a natural extension of the [data warehouse](#data-warehouse) project enabling the schedule of the ETL pipeline.
 
 The dag steps and tasks are depicted below.
 
