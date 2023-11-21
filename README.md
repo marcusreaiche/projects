@@ -41,3 +41,17 @@ In this project I extracted the data produced by the STEDI Step Trainer sensors 
 
 More details, including the project's source code, can be found [here](https://github.com/marcusreaiche/de-udacity-nanodegree-project-04).
 
+# Machine Learning DevOps
+
+## Building a Reproducible Model Workflow
+
+#### Skills and Technologies
+> Machine learning configuration management • Exploratory data analysis • Weights & biases • Data cleaning • Model deployment • Hydra • Data versioning • Non-deterministic data testing • Machine learning pipeline creation • Deterministic data testing • Pytest • MLflow • Data validation • Model testing • Machine learning experiment tracking • Data pre-processing for ML • Model evaluation • Inference pipelines • Data splitting • Model performance metrics
+
+Built a ML pipeline to estimate the typical price for a given property in NYC based on the price of similar properties. New data is received in bulk every week and the model is retrained with the same cadence.
+
+The ML pipeline is depicted below.
+
+![](./assets/mlops_model_workflow.png)
+
+More details, including the project's source code, can be found [here](https://github.com/marcusreaiche/build-ml-pipeline-for-short-term-rental-prices).
